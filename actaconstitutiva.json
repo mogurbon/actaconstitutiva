@@ -69,16 +69,6 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-    "patrocinadorProyecto": { 
-        "id": 2,
-        "nombre": "nombre 2 apellido X",
-        "puesto": "director general",
-        "telefono": null,
-        "extension":"334433",
-        "correo": "dg@jalico.mx",
-        "correoInstitucional": null,
-        "idDependencia": -1
-    },
      "responsableDesarrollo": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
