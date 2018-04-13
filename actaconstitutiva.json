@@ -11,7 +11,7 @@
     "restricciones": 0,
     "tipoReunion": null,
     "frecuenciaReunion": 1,
-    "antecedente":"antecedentes",
+    "antecedentes":"antecedentes",
     "idUsuario":"id",
    "planTrabajo": {
         "id": 5,
