@@ -14,6 +14,7 @@
     "antecedentes":"antecedentes",
     "idUsuario":"id",
     "supuestos": "supuestos",
+    "idProyecto": "2",
    "planTrabajo": {
         "id": 5,
         "nombre": "update",
