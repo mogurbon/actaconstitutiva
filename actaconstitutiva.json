@@ -1,0 +1,123 @@
+
+{
+    "descripcion": 1,
+    "alcance": null,
+    "objetivo": "antecedentes",
+    "justificacion": "justificaci\u00f3n",
+    "criteriosExito": "objetivos",
+    "factoresExito": "obligaciones",
+    "presupuestoEstimado": "18.9",
+    "requerimientos": "",
+    "restricciones": 0,
+    "tipoReunion": null,
+    "frecuenciaReunion": 1,
+   "planTrabajo": {
+        "id": 5,
+        "nombre": "update",
+        "nombreSistema": "systemTest",
+        "idAlfresco": "1",
+        "idParentAlfresco": "1",
+        "tipo": "pdf",
+        "tamanio": 50,
+        "activo": 1,
+        "idCrea": 1,
+        "fechaCreacion": "2018-03-06 00:00:00",
+        "idModifica": 1,
+        "fechaModificacion": "2018-03-06 00:00:00"
+    },
+    "actaConstitutiva": {
+        "id": 5,
+        "nombre": "update",
+        "nombreSistema": "systemTest",
+        "idAlfresco": "1",
+        "idParentAlfresco": "1",
+        "tipo": "pdf",
+        "tamanio": 50,
+        "activo": 1,
+        "idCrea": 1,
+        "fechaCreacion": "2018-03-06 00:00:00",
+        "idModifica": 1,
+        "fechaModificacion": "2018-03-06 00:00:00"
+    },
+   "liderProyecto": {
+        "id": 1,
+        "nombre": "nombre apellido 1",
+        "puesto": "director",
+        "telefono": null,
+        "correo": "directo@sepaf.gob.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+    "administradorProyecto": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+     "patrocinadorProyecto": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+    "patrocinadorProyecto": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+     "responsableDesarrollo": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+    "responsablePruebas": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+    "responsableLiberar": { 
+        "id": 2,
+        "nombre": "nombre 2 apellido X",
+        "puesto": "director general",
+        "telefono": null,
+        "correo": "dg@jalico.mx",
+        "correoInstitucional": null,
+        "idDependencia": -1
+    },
+    "riesgo": [{
+        "nombre":"nombre",
+        "impacto":"impacto",
+        "accion":"accion",
+        "responsable":"responsable",
+        "idClasificacionRiesgo":"3",
+        "idTipoRiesgo":"2"
+    },
+    {
+        "nombre":"nombre",
+        "impacto":"impacto",
+        "accion":"accion",
+        "responsable":"responsable",
+        "idClasificacionRiesgo":"3",
+        "idTipoRiesgo":"2"
+    }
+]
+
+}
