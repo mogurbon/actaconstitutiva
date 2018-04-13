@@ -12,8 +12,6 @@
     "tipoReunion": null,
     "frecuenciaReunion": 1,
     "antecedente":"antecedentes",
-    "fechaInicio":"2018-03-06 00:00:00"
-    "fechaFin":"2018-03-06 00:00:00"
    "planTrabajo": {
         "id": 5,
         "nombre": "update",
