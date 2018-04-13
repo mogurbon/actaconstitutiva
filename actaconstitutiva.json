@@ -12,6 +12,7 @@
     "tipoReunion": null,
     "frecuenciaReunion": 1,
     "antecedente":"antecedentes",
+    "idUsuario":"id",
    "planTrabajo": {
         "id": 5,
         "nombre": "update",
@@ -21,7 +22,6 @@
         "tipo": "pdf",
         "tamanio": 50,
         "activo": 1,
-        "idCrea": 1,
         "fechaCreacion": "2018-03-06 00:00:00",
         "idModifica": 1,
         "fechaModificacion": "2018-03-06 00:00:00"
@@ -35,7 +35,6 @@
         "tipo": "pdf",
         "tamanio": 50,
         "activo": 1,
-        "idCrea": 1,
         "fechaCreacion": "2018-03-06 00:00:00",
         "idModifica": 1,
         "fechaModificacion": "2018-03-06 00:00:00"
