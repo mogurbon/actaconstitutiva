@@ -13,6 +13,7 @@
     "frecuenciaReunion": 1,
     "antecedentes":"antecedentes",
     "idUsuario":"id",
+    "supuestos": "supuestos",
    "planTrabajo": {
         "id": 5,
         "nombre": "update",
