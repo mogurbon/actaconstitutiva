@@ -15,7 +15,7 @@
     "idUsuario":"1",
     "supuestos": "supuestos",
     "idProyecto": "2",
-   "plan_trabajo": {
+   "planTrabajo": {
         "id": 5,
         "nombre": "update",
         "nombreSistema": "systemTest",
@@ -28,7 +28,7 @@
         "idModifica": 1,
         "fechaModificacion": "2018-03-06 00:00:00"
     },
-    "acta_constitutiva": {
+    "actaConstitutiva": {
         "id": 5,
         "nombre": "update",
         "nombreSistema": "systemTest",
@@ -41,7 +41,7 @@
         "idModifica": 1,
         "fechaModificacion": "2018-03-06 00:00:00"
     },
-   "lider_proyecto": {
+   "liderProyecto": {
         "id": 1,
         "nombre": "nombre apellido 1",
         "puesto": "director",
@@ -51,7 +51,7 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-    "administrador_proyecto": { 
+    "administradorProyecto": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
         "puesto": "director general",
@@ -61,7 +61,7 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-     "patrocinador_proyecto": { 
+     "patrocinadorProyecto": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
         "puesto": "director general",
@@ -71,7 +71,7 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-     "responsable_desarrollo": { 
+     "responsableDesarrollo": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
         "puesto": "director general",
@@ -81,7 +81,7 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-    "responsable_pruebas": { 
+    "responsablePruebas": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
         "puesto": "director general",
@@ -91,7 +91,7 @@
         "correoInstitucional": null,
         "idDependencia": -1
     },
-    "responsable_liberar": { 
+    "responsableLiberar": { 
         "id": 2,
         "nombre": "nombre 2 apellido X",
         "puesto": "director general",
